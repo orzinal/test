@@ -1,4 +1,18 @@
 {
+    "democratic": {
+        "reward_low_FN_rate": {
+            "score": -88.0,
+            "threshold": 0.6000000000000001
+        },
+        "reward_low_FP_rate": {
+            "score": -44.0,
+            "threshold": 0.6000000000000001
+        },
+        "standard": {
+            "score": -44.0,
+            "threshold": 0.6000000000000001
+        }
+	},
     "null": {
         "reward_low_FN_rate": {
             "score": -88.0,
